@@ -1,0 +1,1 @@
+Hi this is my fisrt file, which i am adding to local git index
